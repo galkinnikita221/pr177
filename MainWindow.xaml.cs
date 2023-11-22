@@ -20,6 +20,7 @@ namespace Pizza_Galkin
     /// </summary>
     public partial class MainWindow : Window
     {
+        public string localPath;
         public MainWindow()
         {
             InitializeComponent();
